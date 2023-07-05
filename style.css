@@ -174,20 +174,27 @@
     font-weight: 700;
     margin: 20px 0px;
 }
-
-
-.email-container{
-    display: block;
+.email-text{
+    width: 260px;
     padding: 10px;
-    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
 }
 
 
-
-
-
-
-
+.btn-text{
+    width: 175px;
+    padding: 15px;
+    margin-top: 20px;
+    color: #F15B22;
+    border-radius: 8px;
+    background: #FFF; 
+}
+.social-network{
+    display: flex;
+    gap: 10px;
+    margin: 20px 0px;
+}
 
 
 
